@@ -1,0 +1,24 @@
+{
+  "name": "practice-npm",
+  "version": "1.0.0",
+  "description": "practicing npm install",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultimatelokal/practice-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultimatelokal/practice-npm/issues"
+  },
+  "homepage": "https://github.com/ultimatelokal/practice-npm#readme"
+}
